@@ -1,8 +1,4 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1454789548928-9efd52dc4031?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxzcGFjZXxlbnwwfHx8fDE3MTMzNDI5MjN8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
----
 
 # 🦾 Methodology Flow Collapse
 
@@ -35,6 +31,9 @@ coverY: 0
 * Same Pattern Vulnerability
 * SSRF Discovery and Post Exploitation
 * Assets + MEG + GF → Vulnerability (This likely refers to exploiting a combination of findings using different tools like MEG, GF, etc.)
+
+* https://github.com/aghawmahdi/Bug-Bounty-Methodology/blob/main/reconnaissance.md
+* 
 
 **Reporting**
 
