@@ -38,7 +38,7 @@
 * (This step assumes reported vulnerabilities are documented and submitted following the program's guidelines)
 
 
-* [Reconnaissance](reconnaissance.md)
-* [Enumeration & Scanning](enumeration-and-scanning.md)
-* [Vulnerability Identification](vulnerability-identification.md)
+#  [Reconnaissance](reconnaissance.md)
+#  [Enumeration & Scanning](enumeration-and-scanning.md)
+#  [Vulnerability Identification](vulnerability-identification.md)
 
