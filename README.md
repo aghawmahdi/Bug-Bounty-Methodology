@@ -1,6 +1,6 @@
 ---
 
-# 🦾 Methodology Flow Collapse
+# 🦾 Methodology Flow
 
 **Reconnaissance**
 
