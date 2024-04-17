@@ -32,10 +32,13 @@
 * SSRF Discovery and Post Exploitation
 * Assets + MEG + GF → Vulnerability (This likely refers to exploiting a combination of findings using different tools like MEG, GF, etc.)
 
-* https://github.com/aghawmahdi/Bug-Bounty-Methodology/blob/main/reconnaissance.md
-* 
-
 **Reporting**
 
 * Vulnerability Discovery
 * (This step assumes reported vulnerabilities are documented and submitted following the program's guidelines)
+
+
+* [Reconnaissance](reconnaissance.md)
+* [Enumeration & Scanning](enumeration-and-scanning.md)
+* [Vulnerability Identification](vulnerability-identification.md)
+
