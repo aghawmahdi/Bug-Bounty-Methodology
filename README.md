@@ -2,12 +2,12 @@
 
 # 🦾 Methodology Flow
 
-**Reconnaissance**
+**[Reconnaissance](reconnaissance.md)**
 
 * Technologies and CMS
 * Assets
 
-**Enumeration & Scanning**
+**[Enumeration & Scanning](enumeration-and-scanning.md)**
 
 * Asset → FLinks → HTTPX → Nuclei (Open Redirect)
 * Asset → HTTPX → CORS Misconfiguration
@@ -15,7 +15,7 @@
 * Assets → FLinks → HTTPx → XSS Detector
 * Fuzzing on various properties
 
-**Vulnerability Identification**
+**[Vulnerability Identification](vulnerability-identification.md)**
 
 * Abusing Reverse Proxies
 * Cache Vulnerabilities
@@ -38,7 +38,5 @@
 * (This step assumes reported vulnerabilities are documented and submitted following the program's guidelines)
 
 
-#  [Reconnaissance](reconnaissance.md)
-#  [Enumeration & Scanning](enumeration-and-scanning.md)
-#  [Vulnerability Identification](vulnerability-identification.md)
+
 
